@@ -4,6 +4,6 @@
 
 Makefile is provided, to compile just run:
 
-make
+# make
 
 Then run ffosh. to start the shell.
